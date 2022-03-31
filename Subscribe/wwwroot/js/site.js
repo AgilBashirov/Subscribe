@@ -11,6 +11,9 @@ $(document).ready(function () {
 
         console.log(email);
 
+
+
+
         $.ajax({
 
             url: "/home/addSubscriber/",
